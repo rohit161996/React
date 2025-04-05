@@ -70,6 +70,13 @@ Tailwind is a CSS framework used to design the webpages easily by importing the 
 in the React code.
 
 --------------------------------------------------------------------------
+
+## Install Tailwind using npm
+-> npm install tailwindcss @tailwindcss/vite
+
+
+
+--------------------------------------------------------------------------
 ## Shortcuts in VS Code
 1. Open the terminal
 Ctrl + `
